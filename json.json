@@ -1,0 +1,21 @@
+if($_COOKIE['metka'] == 'wolf'){
+    $user_id ='6';
+}
+if($_COOKIE['metka'] == 'grey'){
+    $user_id ='5';
+}
+if($_COOKIE['metka'] == 'jkgrn'){
+    $user_id ='4';
+}
+if($_COOKIE['metka'] == 'elg'){
+  $user_id ='1';
+}
+if($_COOKIE['metka'] == 'tech'){
+  $user_id ='3';
+}
+if($_COOKIE['metka'] == 'scam'){
+  $user_id ='10';
+}
+if($_COOKIE['metka'] == 'scam'){
+  $user_id ='11';
+}
